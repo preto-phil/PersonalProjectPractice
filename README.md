@@ -7,3 +7,4 @@ What is this all about?
             <li>Copy the layout of existing websites for practice</li>
             <li>Incorporate new things as you learn them</li>
         </ol>
+
