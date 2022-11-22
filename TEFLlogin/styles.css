@@ -12,21 +12,28 @@ html, body {
 }
 
 .one {
-    background-image: url('wp3809967.jpg');    
+    background-image: url('./Images/wp3809967.jpg');    
     height: 1000px;
     width: 1920px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
 .two {
     color: white;
     background-color: black;
+    margin: 50px;
+    display: flex;
 }
 
 .three {
     color: white;
     background-color: blue;
+    display: flex;
+    
 }
