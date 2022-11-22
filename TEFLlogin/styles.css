@@ -29,11 +29,17 @@ html, body {
     background-color: black;
     margin: 50px;
     display: flex;
+    flex-direction: column;
 }
 
 .three {
     color: white;
     background-color: blue;
     display: flex;
-    
+    flex-direction: column;
+}
+
+* {
+    border: 1px solid brown;
+    padding: 5px;
 }
