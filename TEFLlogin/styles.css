@@ -86,6 +86,14 @@ html, body {
     text-decoration: none;
 }
 
+a:hover {
+
+}
+
+a:visited {
+    
+}
+
 * {
     border: 1px solid brown;
     padding: 5px;
