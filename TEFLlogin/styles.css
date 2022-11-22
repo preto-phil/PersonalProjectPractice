@@ -32,11 +32,57 @@ html, body {
     flex-direction: column;
 }
 
+.two1 {
+    display: flex;
+    justify-content: center;
+}
+
+.two21 {
+    
+}
+
+.two22 {
+    
+}
+
+.two23 {
+    
+}
+
+.two24 {
+    
+}
+
+.two25 {
+    
+}
+
+.two26 {
+    
+}
+
+.two27 {
+    
+}
+
 .three {
     color: white;
     background-color: blue;
     display: flex;
     flex-direction: column;
+}
+
+.three1 {
+
+}
+
+.three2 {
+    display: flex;
+    align-items: center;
+}
+
+.three21 {
+    
 }
 
 * {
