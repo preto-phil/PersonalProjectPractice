@@ -12,7 +12,7 @@ html, body {
 }
 
 .one {
-    background-image: url('./Images/wp3809967.jpg');    
+    background-image: url(https://elearning.theteflacademy.com/pluginfile.php/1/theme_synergycustom/loginbackground/1664959616/loginbg2.jpeg);    
     height: 1000px;
     width: 1920px;
     background-repeat: no-repeat;
@@ -25,28 +25,46 @@ html, body {
 
 
 .two {
-    color: white;
-    background-color: black;
     margin: 50px;
     display: flex;
     flex-direction: column;
+    width: 500px;
+
 }
 
 .two1 {
     display: flex;
     justify-content: center;
+    background-color: rgb(46, 151, 154);
 }
 
-.two21 {
-    
+.two1 img {
+    width: 120px;
+    height: 70px;
 }
 
-.two22 {
-    
+.two2 {
+    background-color: white;
+    padding: 30px;
+}
+
+.two21 input {
+    height: 20px;
+}
+
+.two22 input {
+    height: 20px;
 }
 
 .two23 {
-    
+    display: flex;
+    align-items: center;
+
+}
+
+.two231 {
+    display: flex;
+    align-items: center;
 }
 
 .two24 {
