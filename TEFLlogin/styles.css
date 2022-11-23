@@ -50,33 +50,38 @@ html, body {
 
 .two21 input {
     height: 20px;
+    margin: 10px 0;
 }
 
 .two22 input {
     height: 20px;
+    margin: 10px 0;
 }
 
 .two23 {
     display: flex;
     align-items: center;
-
+    margin: 10px 0;
 }
 
-.two231 {
+
+.two231 button {
     display: flex;
     align-items: center;
+    height: 15px;
+    margin-right: 10px;
 }
 
 .two24 {
-    
+    margin: 10px 0;
 }
 
 .two25 {
-    
+    margin: 10px 0;
 }
 
 .two26 {
-    
+    margin: 10px 0;
 }
 
 .two27 {
@@ -84,10 +89,12 @@ html, body {
 }
 
 .three {
-    color: white;
-    background-color: blue;
+    color: #1c1c1c;
+    background-color: white;
     display: flex;
     flex-direction: column;
+    padding: 20px;
+    width: 400px;
 }
 
 .three1 {
@@ -97,6 +104,8 @@ html, body {
 .three2 {
     display: flex;
     align-items: center;
+    display: inline;
+    margin-top: 10px;
 }
 
 .three21 {
@@ -111,6 +120,8 @@ a:hover {
 a:visited {
     
 }
+
+/*
 
 * {
     border: 1px solid brown;
