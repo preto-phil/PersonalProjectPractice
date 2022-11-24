@@ -124,6 +124,7 @@ html, body {
     flex-direction: column;
     padding: 20px;
     width: 400px;
+    margin-top: -370px;
 }
 
 .three1 {
@@ -139,7 +140,7 @@ html, body {
 }
 
 .three21 {
-    color: blue;
+    color: rgb(46, 151, 154);
     text-decoration: none;
 }
 
