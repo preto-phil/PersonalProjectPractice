@@ -65,8 +65,9 @@ html, body {
 .two23 {
     display: flex;
     align-items: center;
-    margin: 10px 0;
+    margin-top: 20px;
     font-size: larger;
+    margin-bottom: 20px;
 }
 
 
@@ -87,16 +88,24 @@ html, body {
     align-items: center;
     justify-content: center;
     font-size: larger;
-    background-color: aqua;
+    background-color: rgb(46, 151, 154);
     border-radius: 7px;
+    border-width: 0px;
+    color: white;
 }
 
 .two25 {
-    margin: 10px 0;
+    margin-top: 30px;
+}
+
+.two25 a {
+    display: flex;
+    color: rgb(46, 151, 154);
+    text-decoration: none;
 }
 
 .two26 {
-    margin: 10px 0;
+    margin-top: 20px;
 }
 
 .two27 {
