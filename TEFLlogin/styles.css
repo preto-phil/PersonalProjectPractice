@@ -54,12 +54,14 @@ html, body {
     height: 30px;
     margin: 10px 0;
     font-size: larger;
+    width: 100%;
 }
 
 .two22 input {
     height: 30px;
     margin: 10px 0;
     font-size: larger;
+    width: 100%;
 }
 
 .two23 {
@@ -83,7 +85,7 @@ html, body {
 .two24 button {
     margin: 10px 0;
     height: 30px;
-    width: 250px;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -92,6 +94,9 @@ html, body {
     border-radius: 7px;
     border-width: 0px;
     color: white;
+    /* flex: 1 0 0; */
+    
+    
 }
 
 .two25 {
